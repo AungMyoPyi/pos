@@ -1,0 +1,3 @@
+Name: apple, Price: 15, Quantity: 7
+Name: orange, Price: 15, Quantity: 15
+Name: mango, Price: 25, Quantity: 5

@@ -1,0 +1,5 @@
+Receipt:
+Product: Apple Juice, Quantity: 1, Price: $15
+Product: Apple Juice, Quantity: 3, Price: $15
+
+Total: $60

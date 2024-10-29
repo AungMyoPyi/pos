@@ -1,0 +1,4 @@
+Receipt:
+Product: mango, Quantity: 15, Price: $25
+
+Total: $375
